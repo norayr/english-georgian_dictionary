@@ -17,6 +17,7 @@ How to run
 ==========
 
 type 
+
 	make almost_all
 if you are on x86_64 GNU/Linux machine
 
