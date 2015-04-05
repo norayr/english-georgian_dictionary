@@ -4,6 +4,8 @@ English-Georgian dictionary
 This is a way to legally prepare an English to Georgian stardict dictionary.
 It downloads [this](http://www.georgianweb.com/pdf/lexicon.pdf) pdf, converts it to text, converts text to UTF-8, applies fixes, and converts to tab format.
 
+Ready to use files are available at [this](https://github.com/norayr/english-georgian) location.
+
 Requirements
 ============
 
